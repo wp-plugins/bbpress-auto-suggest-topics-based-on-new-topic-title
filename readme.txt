@@ -9,22 +9,38 @@ Requires at least: 3.8
 Tested up to: 3.9
 Stable Tag: 1.0.1
 
-Auto suggest related topics based on user's new topic title. Uses a combination of tag regongnition & title string searches to return results. For best results please use with an auto-tagging plugin.
+Auto suggest related topics based on user's new topic title. Uses a combination of tag 
+
+regongnition & title string searches to return results. For best results please use with an 
+
+auto-tagging plugin.
 
 == Description ==
 
-We developed this tool for our bbPress support forms over at <a href='http://www.inboundnow.com'>Inbound Now</a>. Our goal was to reduce the custom support load by suggesting related topics to the user as they constucted their new topic title. 
+We developed this tool for our bbPress support forms over at <a 
+
+href='http://www.inboundnow.com'>Inbound Now</a>. Our goal was to reduce the custom support 
+
+load by suggesting related topics to the user as they constucted their new topic title. 
 
 Mission accomplished. 
 
 
 = Developers & Designers =
 
-This extension has a plubic GitHub page where users can contribute fixes and improvements. We ask that if you do make improvements that you commit them back for review so everyone can benefit. 
+This extension has a plubic GitHub page where users can contribute fixes and improvements. 
 
-[Follow Development on GitHub ](https://github.com/atwellpub/bbpress-live-suggest-topics "Follow & Contribute to core development on GitHub")
+We ask that if you do make improvements that you commit them back for review so everyone 
+
+can benefit. 
+
+[Follow Development on GitHub ](https://github.com/atwellpub/bbpress-live-topic-suggestions 
+
+"Follow & Contribute to core development on GitHub")
  | 
-[Follow Developer on Twitter ](https://twitter.com/atwellpub "Follow the developer on Twitter" )
+[Follow Developer on Twitter ](https://twitter.com/atwellpub "Follow the developer on 
+
+Twitter" )
 
 
 == Installation ==
@@ -35,11 +51,15 @@ This extension has a plubic GitHub page where users can contribute fixes and imp
 == Frequently Asked Questions ==
 * Do you provide free support for this plugin
 
-No. But we have a public github and we do offer paid support. Contact the plugin developer to commission your work. 
+No. But we have a public github and we do offer paid support. Contact the plugin developer 
+
+to commission your work. 
 
 * Does this extension work with the default topic search?
 
-No. We would love to see a drop down live search for bbpress integrated with this plugin. Contact the plugin developer to commission it! 
+No. We would love to see a drop down live search for bbpress integrated with this plugin. 
+
+Contact the plugin developer to commission it! 
 
 == Screenshots ==
 
