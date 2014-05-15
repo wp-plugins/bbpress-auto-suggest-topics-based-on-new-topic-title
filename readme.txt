@@ -9,7 +9,7 @@ Requires at least: 3.8
 Tested up to: 3.9
 Stable Tag: 1.0.1
 
-Auto suggest related topics based on user's new topic title. Uses tag regongnition to return results. For best results please use with an auto-tagging plugin.
+Auto suggest related topics based on user's new topic title. Uses a combination of tag regongnition & title string searches to return results. For best results please use with an auto-tagging plugin.
 
 == Description ==
 
