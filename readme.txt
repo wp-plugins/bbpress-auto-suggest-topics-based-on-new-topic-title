@@ -1,18 +1,18 @@
 === bbPress Live Topic Suggestions  ===
 
-Contributors: Hudson Atwell, japh
+Contributors: Hudson Atwell, japh,salbahra
 Donate link: hudson.atwell@gmail.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: bbpress, live search, auto-suggest, topics
 Requires at least: 3.8
 Tested up to: 3.9
-Stable Tag: 1.0.8
+Stable tag: 1.0.9
 
 Auto suggest related topics based on user's new topic title. Uses a combination of tag regongnition & title string searches to return results. For best results please use with an auto-tagging plugin.
 
 == Description ==
-
+ 
 We developed this tool for our bbPress support forms over at [InboundNow](http://www.inboundnow.com "Inbound Marketing for WordPress"). Our goal was to reduce the custom support load by suggesting related topics to the user as they constucted their new topic title. 
 
 Mission accomplished. 
@@ -46,6 +46,12 @@ No. We would love to see a drop down live search for bbpress integrated with thi
 1. Example of auto-suggested topics.
 
 == Changelog ==
+
+= 1.0.9 =
+
+* hides the results box completely (title and empty space) when no results are available
+* styled to take advantage of bbPress theme/classes
+* fixes incorrect version in bbpress-live-topic-suggestions.php
 
 = 1.0.8 =
 
